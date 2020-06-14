@@ -6,7 +6,7 @@ docker build -t pass2 .
 docker run -p 8501:8501 pass2
 
 
-Heroku  - https://streamlit-password-ml.herokuapp.com/
+Heroku  - https://streamlit-password-ml.herokuapp.com/      
 Cd to working dir.      
 heroku login  
 heroku create streamlit-password-ml 
